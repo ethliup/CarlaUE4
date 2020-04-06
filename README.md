@@ -5,7 +5,7 @@ This is a copy of the scene models from Carla simulator, which will be used to c
 ## Settings
 * Download the project
 ```
-git clone https://github.com/ethliup/CarlaRS
+git clone https://github.com/ethliup/CarlaUE4
 ```
 * Download Carla scene models from [Google drive](https://drive.google.com/uc?id=1FtC00CrDb7Kz5StBAwb6vqOGbzZtpROx&export=download).
 ```
