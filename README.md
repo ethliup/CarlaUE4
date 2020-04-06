@@ -9,7 +9,7 @@ git clone https://github.com/ethliup/CarlaUE4
 ```
 * Download Carla scene models from [Google drive](https://drive.google.com/uc?id=1FtC00CrDb7Kz5StBAwb6vqOGbzZtpROx&export=download).
 ```
-cd CarlaRS
+cd CarlaUE4
 mkdir Content/Carla
 ```
 * Extract the compressed files into ''Content/Carla''
